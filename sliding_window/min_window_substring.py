@@ -3,6 +3,7 @@ https://leetcode.com/problems/minimum-window-substring/
 Leetcode 76. Permutation in String
 """
 
+# O(n) time complexity, 500ms
 from collections import Counter
 
 class Solution(object):
