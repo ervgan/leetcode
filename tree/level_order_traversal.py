@@ -3,7 +3,6 @@ https://leetcode.com/problems/binary-tree-level-order-traversal/description/
 """
 
 
-
 # O(n)
 # Definition for a binary tree node.
 # class TreeNode(object):
